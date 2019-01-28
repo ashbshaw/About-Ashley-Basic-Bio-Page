@@ -1,6 +1,6 @@
-# About_Ashley
+# About-Ashley-Basic-Bio-Page
 
-Ashley Shaw's Bio Page
+Ashley Shaw's Student Bio Page (no bells and whistles)
 
 This is my bio page for class assignments. View it here: https://ashbshaw.github.io/About_Ashley/
 
